@@ -1,0 +1,8 @@
+﻿  Source.cpp
+d:\users\john\documents\uni2\software development\assignments\assignment2\code\consoleapplication2\consoleapplication2\source.cpp(39): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\users\john\documents\uni2\software development\assignments\assignment2\code\consoleapplication2\consoleapplication2\source.cpp(40): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\users\john\documents\uni2\software development\assignments\assignment2\code\consoleapplication2\consoleapplication2\source.cpp(41): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\users\john\documents\uni2\software development\assignments\assignment2\code\consoleapplication2\consoleapplication2\source.cpp(42): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\users\john\documents\uni2\software development\assignments\assignment2\code\consoleapplication2\consoleapplication2\source.cpp(43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ConsoleApplication2.vcxproj -> D:\Users\John\Documents\Uni2\Software Development\Assignments\Assignment2\Code\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> D:\Users\John\Documents\Uni2\Software Development\Assignments\Assignment2\Code\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)
